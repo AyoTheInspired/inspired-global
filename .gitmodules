@@ -1,3 +1,6 @@
 [submodule "basic-projects"]
 	path = basic-projects
 	url = https://github.com/AyoTheInspired/basic-projects
+[submodule "basic-projects-new"]
+	path = basic-projects-new
+	url = https://github.com/AyoTheInspired/basic-projects-new
