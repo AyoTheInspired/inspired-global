@@ -1,0 +1,3 @@
+[submodule "basic-projects"]
+	path = basic-projects
+	url = https://github.com/AyoTheInspired/basic-projects
